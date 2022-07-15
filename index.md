@@ -1,12 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to My Portfolio Page. This is under construction.
 
 You can use the [editor on GitHub](https://github.com/Satyajit-Chaudhuri/portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Fraud Detection Project
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+Fraud detection is a set of processes and analyses that allow businesses to identify and prevent unauthorized financial activity. This can include fraudulent credit card transactions, identify theft, cyber hacking, insurance scams, and more.
 
 ```markdown
 Syntax highlighted code block
